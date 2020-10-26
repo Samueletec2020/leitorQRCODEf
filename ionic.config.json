@@ -1,5 +1,7 @@
 {
   "name": "leitorQRCODEf",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
